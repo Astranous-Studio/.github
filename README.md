@@ -1,1 +1,1 @@
-# .github
+# About our Studio
